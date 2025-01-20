@@ -72,8 +72,4 @@ Expansão do modelo para incluir habilidades, ataques e evoluções dos Pokémon
 
 Implementar paginação e ordenação na listagem.
 
-Licença
 
-Ambos os projetos são distribuídos sob a licença MIT. Sinta-se à vontade para usar, modificar e compartilhar.
-
-Se tiver dúvidas ou sugestões, entre em contato! 😊
